@@ -1,6 +1,7 @@
 # isf
 
 > vue project
+> [vue-blog](https://github.com/googBlogs/vue-blog)
 
 ## Build Setup
 
