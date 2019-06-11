@@ -4,7 +4,7 @@
 
 > [vue-blog](https://github.com/googBlogs/vue-blog)
 
-> [vue-master-lesson开课吧](https://github.com/shengxinjing/vue-master-lesson)
+> [vue-master-lesson开课吧]()
 
 
 ## Build Setup
